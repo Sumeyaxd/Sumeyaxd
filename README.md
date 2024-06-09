@@ -9,6 +9,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sumeyaxd&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Сумея Юсенова) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumeyaxd) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sumeya05) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sumeyaxdd) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sumeyaxd&icon=9&color=0)](https://visitcount.itsvg.in)
